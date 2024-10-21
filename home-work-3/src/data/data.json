@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Introducing JSX",
+        "body": "It is called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.",
+        "href": "https://legacy.reactjs.org/docs/introducing-jsx.html"
+    },
+    {
+        "title": "Components and Props",
+        "body": "This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element. We call such components “function components” because they are literally JavaScript functions.",
+        "href": "https://legacy.reactjs.org/docs/components-and-props.html"
+    },
+    {
+        "title": "State and Lifecycle",
+        "body": "Consider the ticking clock example from one of the previous sections. In Rendering Elements, we have only learned one way to update the UI. We call root.render() to change the rendered outputn",
+        "href": "https://legacy.reactjs.org/docs/state-and-lifecycle.html"
+    }
+]
